@@ -124,9 +124,9 @@ RS-Electronic-Sales-Analysis
 
 ## 📬 Contact
 
-**Your Name**
-📧 [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+**Haradev Dagur**
+📧 [hardevdagur03@gmail.com](mailto:hardevdagur03@gmail.com)
+🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/haradev-dagur-924760394/]
 
 ---
 
