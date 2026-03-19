@@ -126,7 +126,7 @@ RS-Electronic-Sales-Analysis
 
 **Haradev Dagur**
 📧 [hardevdagur03@gmail.com](mailto:hardevdagur03@gmail.com)
-🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/haradev-dagur-924760394/]
+🔗 LinkedIn:(https://www.linkedin.com/in/haradev-dagur-924760394/]
 
 ---
 
